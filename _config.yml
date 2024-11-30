@@ -100,6 +100,7 @@ cdn:
 # the avatar on sidebar, support local or CORS resources
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
+avatar: https://pbs.twimg.com/profile_images/1860431472508694530/dVXiuVRd_400x400.jpg
 social_preview_image: # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
